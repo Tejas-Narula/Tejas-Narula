@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Tejas-Narula
 - 👀 I’m interested in coding, creating games and apps
 - 🌱 I’m currently learning JS, HTML, python
-- 📫 How to reach me - [None](https://tejas-narula.web.app/)https://tejas-narula.web.app/
+- 📫 How to reach me - https://tejas-narula.web.app/
